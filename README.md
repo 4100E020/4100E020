@@ -31,6 +31,5 @@
 <!-- 數據統計 -->
 <img src="https://github-readme-stats.vercel.app/api?username=4100e020&show_icons=true&theme=onedark&title_color=000000&locale=cn" alt="4100e020" width="320"height="250"/>
 <!-- 連勝卡 -->
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4100e020&theme=dark" alt="4100e020"  width="400"height="250" />  
-  </p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4100e020&theme=dark" alt="4100e020"  width="400"height="250" />  
+
