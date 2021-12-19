@@ -5,13 +5,13 @@
 </h3>
 <!-- repo -->
 <a href="https://github.com/4100E020/2021_courses">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=4100E020&repo=2021_courses" width="300" />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=4100E020&repo=2021_courses" width="280" />
 </a>
 <a href="https://github.com/4100E020/Moodle">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4100E020&repo=Moodle" width="300" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4100E020&repo=Moodle" width="280" />
 </a>
 <a href="https://github.com/4100E020/Moodle">
-  <img  align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=4100E020&repo=Moodle" width="300" />
+  <img  align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=4100E020&repo=Moodle" width="280" />
 </a>
 
 <!-- 被預覽次數 -->
