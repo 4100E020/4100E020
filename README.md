@@ -1,10 +1,18 @@
-<h1 align=「center」>Hi 👋， I'm 4100E020</h1>
+<h1 align="center">Hi 👋， I'm 4100E020</h1>
 <h3 align="center">崑山科大資工一A</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4100e020&label=Profile%20views&color=b9dbb8&style=flat-square" alt="4100e020"/></p>
+<!-- 被預覽次數 -->
+<p align="left"><img src="https://komarev.com/ghpvc/?username=4100e020&label=Profile%20views&color=b9dbb8&style=flat-square" alt="4100e020"/></p>
+<!-- repo -->
+<a href="https://github.com/4100E020/2021_courses">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4100E020&repo=2021_courses" />
+</a>
+<a href="https://github.com/4100E020/2021_courses">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4100E020&repo=2021_courses" />
+</a>
+
 <h3 align="left">與我聯繫：</h3>
 <p align="left"></p>
-
 <h3 align="left">Languages and Tools：
 <p align="left">
 <!-- Git icon -->
