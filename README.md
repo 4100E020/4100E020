@@ -10,9 +10,7 @@
 <a href="https://github.com/4100E020/2021_courses">
   <img  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=4100E020&repo=2021_courses" width="270" />
 </a>
-<a href="https://github.com/4100E020/Moodle">
-  <img  align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=4100E020&repo=Moodle" width="270" />
-</a>
+
 
 <!-- 被預覽次數 -->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=4100e020&label=Profile%20views&color=b9dbb8&style=flat-square" alt="4100e020"/></p>
