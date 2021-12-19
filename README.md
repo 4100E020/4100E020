@@ -7,10 +7,8 @@
 <!-- repo -->
 <a href="https://github.com/4100E020/2021_courses">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=4100E020&repo=2021_courses" />
-</a>
-<a href="https://github.com/4100E020/2021_courses">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=4100E020&repo=2021_courses" />
-</a>
+</a>  
 
 <h3 align="left">與我聯繫：</h3>
 <p align="left"></p>
