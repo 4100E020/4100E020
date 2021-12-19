@@ -22,13 +22,13 @@
 
 <!-- 最常用語言 -->
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4100e020&show_icons=true&theme=onedark&locale=cn&layout=compact" alt="4100e020" />  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4100e020&show_icons=true&theme=onedark&locale=cn&layout=compact" alt="4100e020"  width="400" />  
 </p>
 <!-- 數據統計 -->
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=4100e020&show_icons=true&theme=onedark&title_color=000000&locale=cn" alt="4100e020" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=4100e020&show_icons=true&theme=onedark&title_color=000000&locale=cn" alt="4100e020" width="400" />  
   </p>
 <!-- 連勝卡 -->
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4100e020&theme=dark" alt="4100e020" />  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4100e020&theme=dark" alt="4100e020"  width="400" />  
   </p>
