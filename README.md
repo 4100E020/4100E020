@@ -12,26 +12,28 @@
 <p align="left"></p>
 <h3 align="left">Languages and Tools：
 <p align="left">
-<!-- Git icon -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <!-- JAVA icon -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <!-- Python icon -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"height="40"/></a></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"height="40"/></a>
+<!-- Git icon -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <!-- PS icon -->
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 
+
+
 <!-- 最常用語言 -->
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4100e020&show_icons=true&theme=onedark&locale=cn&layout=compact" alt="4100e020"  width="400" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=4100e020&show_icons=true&theme=onedark&locale=cn&layout=compact" alt="4100e020"  width="320" />  
 </p>
 <!-- 數據統計 -->
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=4100e020&show_icons=true&theme=onedark&title_color=000000&locale=cn" alt="4100e020" width="400" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=4100e020&show_icons=true&theme=onedark&title_color=000000&locale=cn" alt="4100e020" width="320" />  
   </p>
 <!-- 連勝卡 -->
 <p>
