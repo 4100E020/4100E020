@@ -14,9 +14,6 @@
   <img  align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=4100E020&repo=Moodle" width="270" />
 </a><p>
 
-<!-- 被預覽次數 -->
-<p align="left"><img src="https://komarev.com/ghpvc/?username=4100e020&label=Profile%20views&color=b9dbb8&style=flat-square" alt="4100e020"/></p>
-
 <h3 align="left">Languages and Tools：
 <!-- JAVA icon -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
