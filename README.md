@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋， I'm 4100E020</h1>
-<h3 align="center">崑山科大資工一A</h3>
+<!-- 副標題 -->
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=崑山科大_資工一A&center=true&size=27">
+</h3>
 <!-- repo -->
 <a href="https://github.com/4100E020/2021_courses">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=4100E020&repo=2021_courses" width="320" />
@@ -30,7 +33,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4100e020&show_icons=true&theme=onedark&locale=cn&layout=compact"
 alt="4100e020"  width="320"/>  
 <!-- 數據統計 -->
-<img src="https://github-readme-stats.vercel.app/api?username=4100e020&show_icons=true&theme=onedark&title_color=000000&locale=cn" alt="4100e020" width="320" /> 
-<!-- 連勝卡 -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4100e020&theme=dark" alt="4100e020"  width="400"height="250" />  
-
+<img src="https://github-readme-stats.vercel.app/api?username=4100e020&show_icons=true&theme=onedark&title_color=000000&locale=cn" alt="4100e020" width="320" />
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=4100E020&theme=xcode" />
+</div>
+<!-- 參考資料 
+[自訂卡片](https://github.com/anuraghazra/github-readme-stats)
+[標籤](https://shields.io/)
+[活動紀錄](https://github.com/Ashutosh00710/github-readme-activity-graph/)
+[打字特效](https://github.com/DenverCoder1/readme-typing-svg)
+-->
+  
