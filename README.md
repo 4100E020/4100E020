@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋， I'm 4100E020</h1>
 <h3 align="center">崑山科大資工一A</h3>
 
+
 <!-- 被預覽次數 -->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=4100e020&label=Profile%20views&color=b9dbb8&style=flat-square" alt="4100e020"/></p>
 <!-- repo -->
 <a href="https://github.com/4100E020/2021_courses">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4100E020&repo=2021_courses" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=4100E020&repo=2021_courses" />
 </a>
 <a href="https://github.com/4100E020/2021_courses">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4100E020&repo=2021_courses" />
@@ -40,9 +41,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4100e020&theme=dark" alt="4100e020"  width="400" />  
   </p>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
