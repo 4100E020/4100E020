@@ -33,7 +33,7 @@
   </a>
 <hr>
 <!-- 最常用語言 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=4100e020&show_icons=true&theme=onedark&locale=cn&layout=compact"
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=4100E020&show_icons=true&theme=onedark&locale=cn&layout=compact"
 alt="4100e020"  width="320"/>  
 <!-- 數據統計 -->
 <img src="https://github-readme-stats.vercel.app/api?username=4100e020&show_icons=true&theme=onedark&title_color=000000&locale=cn" alt="4100e020" width="320" />
