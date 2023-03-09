@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋， I'm 4100E020</h1>
 <!-- 副標題 -->
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=崑山科大_資工一A&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=資工系社畜&center=true&size=27">
 </h3>
 <!-- repo -->
 <a href="https://github.com/4100E020/Laboratory">
