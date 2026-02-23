@@ -1,49 +1,46 @@
-<h1 align="center">Hi 👋， I'm 4100E020</h1>
-<!-- 副標題 -->
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=資工系社畜&center=true&size=27">
-</h3>
-<!-- repo -->
-<a href="https://github.com/4100E020/Laboratory">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4100E020&repo=Laboratory" width="300" />
-</a>
-<a href="https://github.com/4100E020/2021_courses">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=4100E020&repo=2021_courses" width="300" />
-</a>
+--- 
+
+### 🛠️ 我的技術棧
+
+| 類別 | 技術 | 
+| :--- | :--- |
+| **前端開發** | `JavaScript` `TypeScript` `React.js` `Next.js` `TailwindCSS` `HTML5` `CSS3` |
+| **後端開發** | `Node.js` `Express.js` `Python` `Flask` |
+| **資料庫** | `MySQL` `PostgreSQL` `MongoDB` |
+| **資訊安全** | `CTF` `Web Security` `Network Security` `Penetration Testing` |
+| **工具與平台** | `Git` `GitHub` `Docker` `VS Code` `Linux` |
+
+--- 
+
+### 💡 精選專案
+
+#### [SoundCheck](https://github.com/4100E020/soundcheck)
+
+> 全台首個「音樂活動整合平台」，旨在提供使用者一站式的音樂活動探索、購票與社群互動體驗。此專案展示了我運用 `Next.js`、`TypeScript` 和 `TailwindCSS` 構建現代化、響應式 Web 應用程式的能力，並包含了完整的開發規劃與 UX 審核流程。
+
+*   **技術亮點**：Next.js, TypeScript, TailwindCSS, 狀態管理, API 整合
+*   **我的貢獻**：負責前端架構設計、UI/UX 實作、功能開發與效能優化。
+
+#### [AIS3_EOF-2022](https://github.com/4100E020/AIS3_EOF-2022) & [PicoCTF](https://github.com/4100E020/PicoCTF)
+
+> 這些儲存庫記錄了我參與資安競賽 (CTF) 的學習歷程與解題筆記，涵蓋了 Web 漏洞、逆向工程、密碼學等多個資安領域。這段經歷培養了我解決問題的能力和對資安攻防的深入理解。
+
+--- 
+
+### 📊 GitHub 統計
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4100E020&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4100E020&layout=compact&theme=radical)
+
+--- 
+
+### 🤝 聯絡我
+
+*   **Email**: [您的 Email 地址] (mailto:your.email@example.com)
+*   **LinkedIn**: [您的 LinkedIn 個人檔案連結]
+*   **個人網站/部落格**: [您的個人網站或部落格連結]
+
+期待與您交流！
 
 
-<!-- 被預覽次數 -->
-<p align="left"><img src="https://komarev.com/ghpvc/?username=4100e020&label=Profile%20views&color=b9dbb8&style=flat-square" alt="4100e020"/></p>
-<h3 align="left">Languages and Tools：
-<!-- JAVA icon -->
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-<!-- Python icon -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"height="40"/>
-  </a>
-<!-- Git icon -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-<!-- PS icon -->
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-<hr>
-<!-- 最常用語言 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=4100E020&show_icons=true&theme=onedark&locale=cn&layout=compact"
-alt="4100e020"  width="320"/>  
-<!-- 數據統計 -->
-<img src="https://github-readme-stats.vercel.app/api?username=4100E020&show_icons=true&theme=onedark&title_color=000000&locale=cn" alt="4100e020" width="320" />
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=4100E020&theme=xcode" />
-</div>
-<!-- 參考資料 
-[自訂卡片](https://github.com/anuraghazra/github-readme-stats)
-[標籤](https://shields.io/)
-[活動紀錄](https://github.com/Ashutosh00710/github-readme-activity-graph/)
-[打字特效](https://github.com/DenverCoder1/readme-typing-svg)
--->
-  
