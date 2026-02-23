@@ -68,12 +68,12 @@
 ### 📊 GitHub 活躍度與統計 (GitHub Activity & Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4100E020&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_bust=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=4100E020&theme=dark&hide_border=true&cache_bust=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4100E020&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=4100E020&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4100E020&layout=compact&theme=dark&hide_border=true&cache_bust=true" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4100E020&theme=dark" alt="Top Languages"/>
 </p>
 
 --- 
