@@ -64,27 +64,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
---- 
-
-### 💡 精選專案 (Featured Projects)
-
-#### 🎵 [SoundCheck](https://github.com/4100E020/soundcheck)
-
-> **全台首個「音樂活動整合平台」**，旨在提供使用者一站式的音樂活動探索、購票與社群互動體驗。此專案不僅展示了我運用 `Next.js`、`TypeScript` 和 `TailwindCSS` 構建現代化、響應式 Web 應用程式的能力，更包含了從需求分析、UI/UX 設計到開發部署的完整流程。透過此專案，我深入理解了大型 Web 應用程式的架構設計與效能優化策略。
-
-*   **技術棧**：`Next.js` `React` `TypeScript` `TailwindCSS` `Node.js` `Express.js` `MongoDB`
-*   **我的貢獻**：
-    *   負責前端架構設計與組件開發，確保高度可維護性與擴展性。
-    *   實作響應式 UI/UX，提升跨裝置的使用者體驗。
-    *   整合第三方 API，實現票務、活動資訊的即時更新。
-    *   參與後端 API 設計與資料庫模型建立。
-    *   撰寫詳細的開發文件 (`todo.md`) 與 UX 審核報告 (`ux-audit.md`)。
-
-#### 🔒 [AIS3_EOF-2022](https://github.com/4100E020/AIS3_EOF-2022) & [PicoCTF](https://github.com/4100E020/PicoCTF)
-
-> 這些儲存庫記錄了我參與 **台灣資安暑期課程 (AIS3)** 結訓成果競賽 (EOF) 以及 **PicoCTF** 等資安競賽的學習歷程與解題筆記。內容涵蓋了 **Web 漏洞分析、逆向工程 (Reverse Engineering)、密碼學 (Cryptography)、二進位漏洞 (Binary Exploitation)** 等多個資安領域。這段經歷不僅培養了我敏銳的問題解決能力、邏輯思維，更讓我對資安攻防的策略與技術有了深入的理解與實戰經驗。
-
---- 
 
 ### 📊 GitHub 活躍度與統計 (GitHub Activity & Stats)
 
